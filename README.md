@@ -61,8 +61,6 @@ const lee = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leemwenda&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&icon_color=00FF9D&text_color=c9d1d9&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leemwenda&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9D&text_color=c9d1d9&langs_count=6" height="165" />
 
 <br/>
 
