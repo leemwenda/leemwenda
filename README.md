@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```js
 const lee = {
@@ -26,13 +26,13 @@ const lee = {
   os       : "Kali Linux 🐧",
   learning : ["Ethical Hacking", "Penetration Testing", "CTF Challenges"],
   openTo   : ["Freelance", "Collaborations", "Security Challenges"],
-  funFact  : "I debug with console.log and I'm not ashamed 😄"
+  funFact  : "I debug with console.log and I'm not ashamed "
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -57,7 +57,7 @@ const lee = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
